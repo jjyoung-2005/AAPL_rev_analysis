@@ -16,7 +16,7 @@ This project explores Apple's stock patterns over the last 5 quarters, compares 
 
 [View the Notebook](AAPL_rev.ipynb)
 
-#Author
-Joshua Young
-Data Science and Psychology Major
-University of Wisconsin - Madison
+# Author
+- Joshua Young
+- Data Science and Psychology Major
+- University of Wisconsin - Madison
