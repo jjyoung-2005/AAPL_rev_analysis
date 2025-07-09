@@ -14,4 +14,4 @@ This project explores Apple's stock patterns over the last 5 quarters, compares 
 - seaborn
 - yfinance
 
-[View the Notebook](AAPL_rev.ipybn)
+[View the Notebook](AAPL_rev.ipynb)
